@@ -1,4 +1,4 @@
 # jpgarrahan.github.io
-### Professor Juan P. Garrahan 
+### Professor Juan P. Garrahan (University of Nottingham)
 
-# [Personal website](https://www.nottingham.ac.uk/~ppzjpg)
+[Personal website here](https://www.nottingham.ac.uk/~ppzjpg)
