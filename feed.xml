@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6F9AC665-9BEA-4AF7-AAB3-2809A293AA26</id>
+ <title>Page list Atom feed</title>
+ <updated>2021-10-04T15:57:12+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:72000711-8EDD-4613-A3DA-C3CF5576787B</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">72000711-8EDD-4613-A3DA-C3CF5576787B</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2021-10-04T15:57:12.001+01:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2AF7BD96-895E-45C6-8F8E-0FF4081D77D1</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">2AF7BD96-895E-45C6-8F8E-0FF4081D77D1</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2021-10-04T15:57:12.002+01:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FE35D631-ACAC-4FBE-AD15-18F016F8053C</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">FE35D631-ACAC-4FBE-AD15-18F016F8053C</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2021-10-04T15:57:12.003+01:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:06532C4B-7A48-4CF8-B9CB-8D4CBB6880E9</id>
+  <title>Seminars</title>
+  <title xmlns="urn:iweb:">Seminars</title>
+  <in-navbar xmlns="urn:iweb:">06532C4B-7A48-4CF8-B9CB-8D4CBB6880E9</in-navbar>
+  <link rel="alternate" href="Seminars.html"/>
+  <updated>2021-10-04T15:57:12.004+01:00</updated>
+  <content>Seminars</content>
+ </entry>
+</feed>
