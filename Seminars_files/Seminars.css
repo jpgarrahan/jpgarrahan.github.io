@@ -143,11 +143,11 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(1, 25, 147);
     text-decoration: none;
 }
 a:hover {
-    color: rgb(224, 133, 102);
+    color: rgb(1, 25, 147);
     text-decoration: underline;
 }
 #widget1 a {
@@ -155,15 +155,15 @@ a:hover {
     text-decoration: none;
 }
 #widget0 a:hover {
-    color: rgb(224, 133, 102);
+    color: rgb(1, 25, 147);
     text-decoration: underline;
 }
 #widget1 a:hover {
-    color: rgb(224, 133, 102);
+    color: rgb(1, 25, 147);
     text-decoration: underline;
 }
 #widget0 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(1, 25, 147);
     text-decoration: none;
 }
 #widget0 a {
@@ -171,7 +171,7 @@ a:hover {
     text-decoration: none;
 }
 #widget1 a:visited {
-    color: rgb(66, 66, 66);
+    color: rgb(1, 25, 147);
     text-decoration: none;
 }
 .spacer {
