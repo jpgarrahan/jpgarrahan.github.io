@@ -86,12 +86,15 @@ th,td{
 .pp{list-style:none; margin: 1px auto 1px auto; padding:0px; width:800px; text-align:justify; font-size: 1.2em; color: #000000; font-weight: bolder;}
 
 /* Website Banner */
-.banner {position: relative; font-family:'Roboto',serif;}
-.top-title {font-size:5.2em; color: #505050; text-align: center; width: 800px; height: 72px; position: absolute; padding: 0 0 0 0; top: 0;}
-.top-subtitle {font-size:3.2em; color: #505050; text-align: center; width: 800px; height: 72px; position: absolute; padding: 56px 0 0 0; top: 0px;}
+.banner {position: relative; font-family:'Roboto',serif; padding: 20px 20px 20px 0;}
+
+.top-title {font-size:5.2em; background-color: #000000; center; width: 800px; height: 66px; position: absolute; padding: 5px 0 0 0; top: 0; text-align: center;}
+
+.top-subtitle {font-size:4.2em; text-align: center; width: 800px; height: 72px; position: absolute; padding: 70px 0 0 0; top: 0px;}
 
 /* Conference Title Logo */
-.title{color: #000000; text-shadow: 1px 1px 3px #ffffff; font-size:0.48em; font-weight: bold;} 
+.title{color: #ffffff; font-size:0.47em; font-weight: bold; text-align: center;} 
+
 .subtitle{color: #000000; text-shadow: 1px 1px 3px #ffffff; font-size:0.48em; font-weight: bold;}
 
 /* Navigation Links (Home, Registration, etc) */
@@ -134,7 +137,6 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     td.navigation{font-size:1.5em; padding:0px 20px 0px 20px;}
     table.footer{font-size:0.33em;}
     .pp{font-size:1.4em; line-height:1.4em;}
-    li{font-size:1.4em; line-height:1.4em;}
-    
+    li{font-size:1.4em; line-height:1.4em;}    
 }
 
