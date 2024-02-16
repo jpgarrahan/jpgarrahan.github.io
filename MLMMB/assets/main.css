@@ -88,7 +88,7 @@ th,td{
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto',serif; padding: 20px 20px 20px 0;}
 
-.top-title {font-size:5.2em; background-color: #000000; center; width: 800px; height: 66px; position: absolute; padding: 7px 0 0 0; top: 0; text-align: center;}
+.top-title {font-size:4.8em; background-color: #000000; center; width: 800px; height: 66px; position: absolute; padding: 7px 0 0 0; top: 0; text-align: center;}
 
 .top-subtitle {font-size:4.2em; text-align: center; width: 800px; height: 72px; position: absolute; padding: 76px 0 0 0; top: 0px;}
 
