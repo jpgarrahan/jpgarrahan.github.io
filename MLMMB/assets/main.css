@@ -34,7 +34,7 @@ body{
     font-size:1em;
     line-height:1.5em;
     margin: 60px auto;
-    width: 800px;
+    width: 900px;
 }
 
 .header{
@@ -43,7 +43,7 @@ body{
     text-align: center;
     line-height:1em;
     color:#ffffff;
-    padding:0.1em;
+    padding:0.2em;
 }
 
 a{color: #2e07ee; text-decoration:none;}
@@ -62,10 +62,10 @@ h3{font-size:1.67em;}
 
 h4{font-size:1.33em;}
 
-p{list-style:none; margin: 1px auto 1px auto; padding:0px; width:800px; text-align:justify; font-size: 1.2em; color: #000000}
+p{list-style:none; margin: 1px auto 1px auto; padding:0px; width: 900px; text-align:justify; font-size: 1.2em; color: #000000}
 
 li a, p a {text-decoration-color:#2e07ee;}
-ul{list-style:none; margin:2px auto 2px auto; padding:1px; width:800px; text-align:left;}
+ul{list-style:none; margin:2px auto 2px auto; padding:1px; width: 900px; text-align:left;}
 ul li{list-style:none; margin:0px auto 0px auto; padding:2px; text-align:left; font-size: 1.2em;}
 i,em{font-style:italic;}
 b,strong{font-weight:bold;}
@@ -80,7 +80,7 @@ sub{
     line-height: 0;
 }
 table{
-    width: 800px;
+    width: 900px;
     margin: 12px auto 24px auto;
     float: center;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
@@ -92,14 +92,15 @@ th,td{
     /*border: 1px solid black;*/
 }
 
-.pp{list-style:none; margin: 1px auto 1px auto; padding:0px; width:800px; text-align:justify; font-size: 1.2em; color: #000000; font-weight: bolder;}
+.pp{list-style:none; margin: 1px auto 1px auto; padding:0px; width: 900px; text-align:justify; font-size: 1.2em; color: #000000; font-weight: bolder;}
 
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto',serif; padding: 20px 20px 20px 0;}
+.banner img{width: 102.2%}
 
-.top-title {font-size:4.8em; background-color: #000000; center; width: 800px; height: 66px; position: absolute; padding: 9px 0 0 0; top: 0; text-align: center;}
+.top-title {font-size:4.8em; background-color: #000000; center; width: 900px; height: 66px; position: absolute; padding: 0 0 0 0; top: 0; text-align: center;}
 
-.top-subtitle {font-size:2.2em; text-align: center; width: 800px; height:0.8em; position: relative; padding: 0.5em 0 0 0; top: 0px;}
+.top-subtitle {font-size:2.2em; text-align: center; width: 900px; height:0.8em; position: relative; padding: 0.5em 0 0 0; top: 0px;}
 
 /* Conference Title Logo */
 .title{color: #ffffff; font-size:0.47em; font-weight: bold; text-align: center;} 
@@ -107,11 +108,11 @@ th,td{
 .subtitle{color: #000000; font-size:1.0em; font-weight: bold;}
 
 /* Navigation Links (Home, Registration, etc) */
-table.navigation{width:800px;}
+table.navigation{width: 900px;}
 td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 
 /* Sponsor Images */
-table.sponsors{width:800px;}
+table.sponsors{width: 900px;}
 td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
 td.sponsor img{width: 95%}
 
