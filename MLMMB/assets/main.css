@@ -37,6 +37,15 @@ body{
     width: 800px;
 }
 
+.header{
+    background-color: #000000;
+    font-size:4em;
+    text-align: center;
+    line-height:1em;
+    color:#ffffff;
+    padding:0.1em;
+}
+
 a{color: #2e07ee; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
@@ -90,12 +99,12 @@ th,td{
 
 .top-title {font-size:4.8em; background-color: #000000; center; width: 800px; height: 66px; position: absolute; padding: 9px 0 0 0; top: 0; text-align: center;}
 
-.top-subtitle {font-size:4.2em; text-align: center; width: 800px; height: 72px; position: absolute; padding: 76px 0 0 0; top: 0px;}
+.top-subtitle {font-size:2.2em; text-align: center; width: 800px; height:0.8em; position: relative; padding: 0.5em 0 0 0; top: 0px;}
 
 /* Conference Title Logo */
 .title{color: #ffffff; font-size:0.47em; font-weight: bold; text-align: center;} 
 
-.subtitle{color: #000000; text-shadow: 1px 1px 3px #ffffff; font-size:0.48em; font-weight: bold;}
+.subtitle{color: #000000; font-size:1.0em; font-weight: bold;}
 
 /* Navigation Links (Home, Registration, etc) */
 table.navigation{width:800px;}
@@ -103,28 +112,8 @@ td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center
 
 /* Sponsor Images */
 table.sponsors{width:800px;}
-td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:middle; padding:10px 0px 0px 0px;}
-td.sponsor img{width: 190%}
-
-/* The Table on the Program Page */
-td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
-td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
-td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Roboto',serif; text-shadow: 1px 1px 2px #d0d0d0; }
-td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; color: #52739e; height:32px; font-family:'Roboto',serif; text-shadow: 1px 1px 2px #d0d0d0;}
-td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
-td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
-td.abstract img{display: block; margin: 4px auto 8px auto}
-table.plenary{padding-top: 8px; background: #ffffff;}
-
-/* Registration and Directions iframes and Images */
-iframe.registration{display:block; margin:1em auto 2em auto; width:700px; height:1400px; border:none;}
-iframe.directions{display:block; margin:1em auto 2em auto; width:800px; height:400px; border:none;}
-img.center{display:block; width:67%; margin:1em auto 2em auto;}
-
-/* Flyer Images */
-table.flyers{width:800px;}
-td.flyer{white-space:nowrap; width:50%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
-td.sponsor img{width: 70%}
+td.sponsor{white-space:nowrap; width:33%; text-align:center; vertical-align:middle; padding:0px 0px 0px 0px;}
+td.sponsor img{width: 95%}
 
 footer{font-size:0.875em; margin-top:12em; text-align:center;}
 
