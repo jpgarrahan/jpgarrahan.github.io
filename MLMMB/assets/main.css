@@ -121,12 +121,12 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 900px) {
     h2{font-size:1.8em;}
-    p{font-size:1.4em; line-height:1.4em;}
-    th,td,tr{font-size:1.5em; line-height:1.4em;}
+    p{font-size:1.4em; line-height:1.6em;}
+    th,td,tr{font-size:1.5em; line-height:1.6em;}
     td.date{font-size:1em; padding-top:0.5em;}
     td.navigation{font-size:1.5em; padding:0px 20px 0px 20px;}
     table.footer{font-size:0.33em;}
-    .pp{font-size:1.4em; line-height:1.4em;}
-    ul{font-size:1.2em; line-height:1.4em;}    
+    .pp{font-size:1.4em; line-height:1.6em;}
+    ul{font-size:1.2em; line-height:1.6em;}    
 }
 
