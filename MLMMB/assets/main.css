@@ -32,7 +32,7 @@ body{
     text-align: left;
     font-family:'Roboto',sans-serif;
     font-size:1em;
-    line-height:1.5em;
+    line-height:1.0em;
     margin: 60px auto;
     width: 900px;
 }
@@ -62,13 +62,14 @@ h2{font-size:1.60em;}
 
 h3{font-size:1.67em;}
 
-h4{font-size:1.4em;}
+h4{font-size:1.4em; line-height:1.4em;}
 
-p{list-style:none; margin: 1px auto 1px auto; padding:0px; width: 900px; text-align:justify; font-size: 1.2em; color: #000000}
+p{list-style:none; margin: 1px auto 1px auto; padding:0px; width: 900px; text-align:justify; font-size: 1.2em; color: #000000; line-height:1.4em;}
 
 li a, p a {text-decoration-color:#2e07ee;}
-ul{list-style:none; margin:2px auto 2px 2px; padding:1px; width: 900px; text-align:left;}
-ul li{list-style:none; margin:0px auto 0px auto; padding:2px; text-align:left; font-size: 1.2em;}
+ul{list-style:none; margin:2px auto 2px 2px; padding:1px; width: 900px; text-align:left; line-height:1.6em;}
+ul li{list-style:none; margin:0px auto 0px auto; padding:2px; text-align:left; font-size: 1.2em; text-indent: -5.5em; padding-left: 5.5em;}
+
 i,em{font-style:italic;}
 b,strong{font-weight:bold;}
 sup{
@@ -102,7 +103,7 @@ th,td{
 
 .top-title {font-size:4.8em; background-color: #000000; center; width: 900px; height: 66px; position: absolute; padding: 0 0 0 0; top: 0; text-align: center;}
 
-.top-subtitle {font-size:2.2em; text-align: center; width: 900px; height:0.8em; position: relative; padding: 0.5em 0 0 0; top: 0px;}
+.top-subtitle {font-size:2.2em; text-align: center; width: 900px; height:0.5em; position: relative; padding: 0.5em 0 0 0; top: 0px;}
 
 /* Conference Title Logo */
 .title{color: #ffffff; font-size:0.47em; font-weight: bold; text-align: center;} 
