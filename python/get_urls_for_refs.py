@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Add a correct URL for rows whose "html link" starts with "papers/".
 
-Usage: python3 fix_links.py papers.csv papers_with_urls.csv
+Usage: python get_urls_for_refs.py papers.csv papers_with_urls.csv
 """
 import csv
 import difflib
